@@ -1,0 +1,1 @@
+Hotel like counter excercise.

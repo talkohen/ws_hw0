@@ -41,6 +41,8 @@ http.createServer (function(req,res) {
     res.write ("<h1>Hello</h1>" 
                 + myHotel.name+ "'s like number : "
                  + myHotel.likeNum
+
+                 +"<br><br>" +myHotel.log
                  );
     
     res.end();

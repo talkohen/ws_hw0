@@ -23,7 +23,7 @@ hotel.prototype.unlike = function () {
 }
 
 hotel.prototype.addToLog = function (entry) {
-     this.log += entry;
+     this.log += "<br>"+entry;
 }
 
 
