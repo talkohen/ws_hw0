@@ -1,0 +1,19 @@
+{
+  "name": "hw0",
+  "version": "1.0.0",
+  "description": "hotel reviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talkohen/ws_hw0.git"
+  },
+  "author": "tal cohen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talkohen/ws_hw0/issues"
+  },
+  "homepage": "https://github.com/talkohen/ws_hw0#readme"
+}
